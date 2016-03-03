@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./schylitragdiqus00unkngoog_0074.png"; bbox 0 0 729 1238; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 301 404 359 421">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 301 404 359 421">
+     <span class='ocr_line' id='line_1_1' title="bbox 301 404 359 421; baseline 0.017 -1"><span class='ocrx_word' id='word_1_1' title='bbox 301 404 359 421; x_wconf 73' lang='grc' dir='ltr'>ΕΙΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 97 479 569 501">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 97 479 569 501">
+     <span class='ocr_line' id='line_1_2' title="bbox 97 479 569 501; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 97 479 569 501; x_wconf 78' lang='grc' dir='ltr'>ΑΓΑΜΕΜΝΟΝΑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 154 578 511 616">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 154 578 511 616">
+     <span class='ocr_line' id='line_1_3' title="bbox 154 578 511 616; baseline 0.006 -3"><span class='ocrx_word' id='word_1_3' title='bbox 154 578 511 616; x_wconf 84' lang='grc' dir='ltr'><strong>ΣΧΟΛΙΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 69 695 602 718">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 69 695 602 718">
+     <span class='ocr_line' id='line_1_4' title="bbox 69 695 602 718; baseline 0.002 -1"><span class='ocrx_word' id='word_1_4' title='bbox 69 696 267 717; x_wconf 87' lang='grc' dir='ltr'>ΠΡΩΤΑ</span> <span class='ocrx_word' id='word_1_5' title='bbox 308 695 602 718; x_wconf 82' lang='grc' dir='ltr'>ΔΕΤΤΕΡΑ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

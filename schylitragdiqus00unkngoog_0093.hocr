@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./schylitragdiqus00unkngoog_0093.png"; bbox 0 0 729 1238; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 316 404 472 422">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 316 404 472 422">
+     <span class='ocr_line' id='line_1_1' title="bbox 316 404 472 422; baseline 0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 316 404 383 422; x_wconf 66' lang='lat' dir='ltr'>fab-112</span> <span class='ocrx_word' id='word_1_2' title='bbox 393 405 472 422; x_wconf 67' lang='lat' dir='ltr'>Persona.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 226 450 472 649">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 226 450 472 649">
+     <span class='ocr_line' id='line_1_2' title="bbox 226 450 413 468; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 226 450 413 468; x_wconf 79' lang='lat' dir='ltr'>SPECULATOR.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 226 480 343 498; baseline -0.009 0"><span class='ocrx_word' id='word_1_4' title='bbox 226 480 343 498; x_wconf 88' lang='lat' dir='ltr'>CHORUS.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 227 511 463 528; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 227 511 463 528; x_wconf 75' lang='lat' dir='ltr'>CLYTEMNESTRA.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 229 541 472 564; baseline 0 -6"><span class='ocrx_word' id='word_1_6' title='bbox 229 541 403 558; x_wconf 75' lang='lat' dir='ltr'>TALTHYBIUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 416 547 472 564; x_wconf 77' lang='lat' dir='ltr'><strong>praeco.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 228 571 421 589; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 228 571 421 589; x_wconf 75' lang='lat' dir='ltr'>AGAMEMNON.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 228 602 383 619; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 228 602 383 619; x_wconf 84' lang='lat' dir='ltr'>CASANDRA.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 228 632 380 649; baseline 0.007 -1"><span class='ocrx_word' id='word_1_10' title='bbox 228 632 380 649; x_wconf 79' lang='lat' dir='ltr'>AEGISTHUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 171 696 622 721">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 171 696 622 721">
+     <span class='ocr_line' id='line_1_9' title="bbox 171 696 622 721; baseline 0 -8"><span class='ocrx_word' id='word_1_11' title='bbox 171 697 257 719; x_wconf 76' lang='lat' dir='ltr'><strong>Prologum</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 266 697 297 721; x_wconf 75' lang='lat' dir='ltr'>agit</span> <span class='ocrx_word' id='word_1_13' title='bbox 305 696 403 719; x_wconf 66' lang='lat' dir='ltr'>Speculatur,</span> <span class='ocrx_word' id='word_1_14' title='bbox 414 697 540 719; x_wconf 75' lang='lat' dir='ltr'>Agamemnonis</span> <span class='ocrx_word' id='word_1_15' title='bbox 549 696 622 714; x_wconf 75' lang='lat' dir='ltr'>famulus.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
